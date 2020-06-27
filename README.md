@@ -1,6 +1,4 @@
 ## MY FIRST SITE
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU" alt="img5>
-
 ## Developer
 Jerry Nabango
 
