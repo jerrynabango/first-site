@@ -12,8 +12,8 @@ The site created talks briefly about me(background-education and intersts) and t
   ## Live link to the site:
 
 
-   ##license.
-  ##TERMS AND CONDITIONS:
+   ## license.
+  ## TERMS AND CONDITIONS:
   1.Permission is hereby granted to any user obtaining a copy
 of this site "MY FIRST SITE" and associated documentation files to deal
 in the site without any restrictions, including without limitations the rights
