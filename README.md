@@ -21,4 +21,4 @@ to use,copy,modify,publish,distribute,sublicense,and/or sell
 copies of the site, and to permit persons to whom the site is furnished to do so freely without any restrictions.
          THANK YOU.
 
-     ##Copyright (c)2020.All rights reserved
+  ## Copyright (c)2020.All rights reserved
