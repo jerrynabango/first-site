@@ -1,8 +1,8 @@
 ## MY FIRST SITE
-## Developer
+## Developer.
 Jerry Nabango
 
-## Description
+## Description.
 The site created talks briefly about me(background-education and intersts) and the projects done since joining Moringa School.
 
 ## Technologies used:
