@@ -6,8 +6,8 @@ Jerry Nabango
 The site created talks briefly about me(background-education and intersts) and the projects done since joining Moringa School.
 
 ## Technologies used:
-   ~ HTML
-   ~ CSS
+   * HTML
+   * CSS
 
   ## Live link to the site:
 
