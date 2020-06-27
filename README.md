@@ -9,10 +9,10 @@ The site created talks briefly about me(background-education and intersts) and t
    ~ HTML
    ~ CSS
 
-  ##Live link to the site:
+  ## Live link to the site:
 
 
-   ##license
+   ##license.
   ##TERMS AND CONDITIONS:
   1.Permission is hereby granted to any user obtaining a copy
 of this site "MY FIRST SITE" and associated documentation files to deal
